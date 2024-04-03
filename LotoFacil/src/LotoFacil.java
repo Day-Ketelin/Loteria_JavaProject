@@ -58,7 +58,7 @@ public class LotoFacil {
                             System.out.println("Opção inválida. Tente novamente.\n\n");
 
                     }
-            } while (jogo != 4);
+            } while (jogo != 3);
         }
 
     }
