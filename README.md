@@ -18,11 +18,17 @@ O jogador deve escolher a opção 4 para encerrar e sair do jogo.
 #
 
 
-
 ⚠️🛠️🛠️🛠️⭐⭐⭐🛠️🛠️🛠️⚠️
 
+#
 
-***********************************
+
+
+# Amostra do Jogo 
+![](https://github.com/Day-Ketelin/Loteria_JavaProject/blob/main/idea64_eQkXgHvWI4.gif)
+
+
+
 
 ## Lógica do Jogo
 
@@ -41,3 +47,7 @@ O código faz a introdução dos jogos disponíveis para que o jogador escolha q
 #
 
 ⚠️🛠️🛠️🛠️⭐⭐⭐🛠️🛠️🛠️⚠️
+
+
+***********************************
+
