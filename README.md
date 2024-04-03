@@ -18,3 +18,5 @@ O jogador deve escolher a opção 4 para encerrar e sair do jogo.
 ********************************
 
 Link do Jogo: <https://github.com/Day-Ketelin/Loteria_JavaProject>
+
+*********************************
