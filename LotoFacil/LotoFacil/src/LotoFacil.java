@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class LotoFacil {
     public static void main(String[] args) {
-      ArrayList<String> jogos = new ArrayList<String>();      
+    
         Scanner scanner = new Scanner(System.in);
         System.out.println("Bem vindo(a) ao jogo LotoFacil!");
 int jogo = -1;
