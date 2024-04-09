@@ -20,18 +20,18 @@ int jogo = -1;
             //Jogo Número
             
           case 1:  System.out.println("Digite um número de 0 a 100 para participar: ");
-            int numeroEscolhido = scanner.nextInt();
-            scanner.nextLine();
-            Random random = new Random();
-            int numeroPremiado = random.nextInt(101);
+           int numeroEscolhido = scanner.nextInt();
+           scanner.nextLine();
+           Random random = new Random();
+           int numeroPremiado = random.nextInt(101);
 
-            if (numeroEscolhido < 0 || numeroEscolhido > 100) { System.out.println("Aposta inválida, gentileza escolher um número de 0 à 100."); }
-            
-            else { if (numeroEscolhido == numeroPremiado) {
-                  System.out.println("Parabéns! Você acertou o número premiado!");}
-                  break;
-        } else {System.out.println("Que pena! O número sorteado foi: " + numeroPremiado);}
-            break;
+             if (numeroEscolhido < 0 || numeroEscolhido > 100) { System.out.println("Aposta inválida, gentileza escolher um número de 0 à 100."); }
+
+             else if (numeroEscolhido == numeroPremiado) {
+                System.out.println("Parabéns! Você acertou o número premiado!");}
+
+             else {System.out.println("Que pena! O número sorteado foi: " + numeroPremiado);}
+             break;
 
 
             //Jogo Letra
