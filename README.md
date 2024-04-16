@@ -8,7 +8,10 @@ O jogador deve escolher um número de 0 à 100 e, se o número escolhido for igu
 **2 - Jogo de Letras:**
 O jogador deve escolher uma Letra de A à Z e, se a letra escolhida for igual à definida pelo sorteio, o jogador terá ganhado o prêmio.
 
-**3 - Sair do Jogo:**
+**3 - Jogo Par ou Ímpar:**
+O jogador deve escolher se o número sorteado será PAR ou ÍMPAR.
+
+**4 - Sair do Jogo:**
 O jogador deve escolher a opção 4 para encerrar e sair do jogo.
 
 
@@ -24,7 +27,11 @@ O jogador deve escolher a opção 4 para encerrar e sair do jogo.
 
 
 
-# Amostra do Jogo 
+# Amostra do Jogo com Interface Gráfica (GUI)
+
+
+
+# Amostra do Jogo no Terminal
 ![](https://github.com/Day-Ketelin/Loteria_JavaProject/blob/main/idea64_eQkXgHvWI4.gif)
 
 
