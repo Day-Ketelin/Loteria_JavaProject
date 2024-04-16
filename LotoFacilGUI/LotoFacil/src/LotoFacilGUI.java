@@ -110,7 +110,7 @@ public class LotoFacilGUI  extends JFrame {
         Random random2 = new Random();
         int opcaoSorteada = random2.nextInt(101);
 
-        if (opcaoSorteada / 2 == 0 && opcaoEscolhidaInt == 2) {
+        if (opcaoSorteada % 2 == 0 && opcaoEscolhidaInt == 2) {
             JOptionPane.showMessageDialog(null,"O número sorteado é PAR. Parabéns, você acertou! ", "Jogo 3", JOptionPane.INFORMATION_MESSAGE);
         } else if (opcaoSorteada / 2 != 0 && opcaoEscolhidaInt == 1) {
             JOptionPane.showMessageDialog(null,"O número sorteado é ÍMPAR. Parabéns, você acertou! ", "Jogo 3", JOptionPane.INFORMATION_MESSAGE);
