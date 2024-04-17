@@ -47,7 +47,7 @@ O código faz a introdução dos jogos disponíveis para que o jogador escolha q
 
 
 # Amostra do Jogo no Terminal
-![](https://github.com/Day-Ketelin/Loteria_JavaProject/blob/main/idea64_eQkXgHvWI4.gif)
+![](https://github.com/Day-Ketelin/Loteria_JavaProject/blob/main/LotoFacil_Terminal.gif)
 
 
 
