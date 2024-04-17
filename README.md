@@ -21,21 +21,6 @@ O jogador deve escolher a opção 4 para encerrar e sair do jogo.
 #
 
 
-⚠️🛠️🛠️🛠️⭐⭐⭐🛠️🛠️🛠️⚠️
-
-#
-
-
-
-# Amostra do Jogo com Interface Gráfica (GUI)
-
-
-
-# Amostra do Jogo no Terminal
-![](https://github.com/Day-Ketelin/Loteria_JavaProject/blob/main/idea64_eQkXgHvWI4.gif)
-
-
-
 
 ## Lógica do Jogo
 
@@ -47,7 +32,23 @@ O código faz a introdução dos jogos disponíveis para que o jogador escolha q
 
 * Se selecionada a opção **2 - Jogo de Letras**, será comparada a letra digitada pelo jogador com o character específico pré-definido pelo jogo, sendo possível dar entrada somente em letras *ch* nesta modalidade do jogo.
 
-* E, se selecionada a opção **3 - Sair do Jogo**, será mostrada a mensagem de agradecimento pela participação no jogo e o mesmo será finalizado.
+* Se selecionada a opção **3 - Jogo Par ou Ímpar**, é selecionado um número aleatório com a biblioteca *random* do Java, de modo a comparar se o jogador acertou se este número escolhido será *1 - Ímpar* ou *2 - Par*.
+
+* E, na versão do *Terminal*, se selecionada a opção **4 - Sair do Jogo**, será mostrada a mensagem de agradecimento pela participação no jogo e o mesmo será finalizado.
+
+
+
+#
+
+
+
+# Amostra do Jogo com Interface Gráfica (GUI)
+![](https://github.com/Day-Ketelin/Loteria_JavaProject/blob/main/LotoF%C3%A1cil_GUI.gif)
+
+
+# Amostra do Jogo no Terminal
+![](https://github.com/Day-Ketelin/Loteria_JavaProject/blob/main/idea64_eQkXgHvWI4.gif)
+
 
 
 
@@ -55,6 +56,11 @@ O código faz a introdução dos jogos disponíveis para que o jogador escolha q
 
 ⚠️🛠️🛠️🛠️⭐⭐⭐🛠️🛠️🛠️⚠️
 
+
+# Liguagem - Java
+
+
+**Bibliotecas importadas:** javax.swing.*, java.awt.*; java.awt.event.ActionEvent; java.awt.event.ActionListener; java.util.Random.
 
 ***********************************
 
